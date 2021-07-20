@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dchrostowski11
 - 👀 I’m interested in UX/UI and Software Development
-- 🌱 I’m currently learning Unity and Angular
+- 🌱 I’m currently learning Unity and iOS Development
 - 📫 How to reach me: feel free to email me at danielchrostowski11@gmail.com or visit my portfolio(pending)!
 
 <!---
